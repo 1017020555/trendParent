@@ -5,5 +5,5 @@ eureka:
 spring:
   application:
     name:  trend-trading-backtest-service
-
+#用于开启 feign 模式的断路器
 feign.hystrix.enabled: true
