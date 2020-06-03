@@ -1,9 +1,7 @@
 package com.lc.cn;
-
 import cn.hutool.core.util.NetUtil;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
-
 /**
  * 2 * @Author: lichao
  * 3 * @Date: 2020/5/31 10:02
